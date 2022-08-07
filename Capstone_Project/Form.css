@@ -1,0 +1,42 @@
+input{
+    padding: 8px;
+    display: grid;
+    margin: auto;
+    width: 350px;
+}
+.textbox-name{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    margin: 0 auto;
+    display: block;
+}
+button{
+    margin: 10px;
+    padding: 40px;
+    border-radius: 20px;
+    background-color: orange;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+button:hover{
+    background-color: rgb(255, 204, 110);
+}
+body{
+    background-color: #6ff5d8;
+    text-align: center;
+    margin: 0;
+    height: 400px;
+    border-style: solid;
+    border: rgb(0, 98, 110) solid 60px;
+    border-top: #6ff5d8;
+    border-radius: 1000px;
+}
+a{
+    font-size: 30px;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(111, 120, 252);
+}
